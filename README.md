@@ -1,6 +1,4 @@
 ---
-# HOW TO BUILD THE BEST KEYBOARD POSSIBLE #
+# Why Marvel's Phase Four Sucks #
 ---
-You will need multiple tools and matirials to build a working keyboard
 
-**Remember it's all about prefrence!**
