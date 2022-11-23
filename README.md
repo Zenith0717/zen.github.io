@@ -11,5 +11,4 @@
 </body>
   
   <img src="https://wallpaperaccess.com/full/2329699.png" alt="grr" width="300" height="100" class="center">
-<p>"Futures don't make themselves, you have to create them."</p>
 </html>
