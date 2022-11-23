@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>We're no strangers to love</title>
+<title>Page Title</title>
 </head>
 <body>
   
