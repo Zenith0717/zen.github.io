@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>We're no strangers to love</title>
+<title>We're no strangers to love</title>
 </head>
 
 <body>
