@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
 <head>
 <h1>What caused Earth's biggest mass extinction?</h1>
