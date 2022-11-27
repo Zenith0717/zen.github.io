@@ -3,23 +3,22 @@
 ## Old English
 Important People/Figures/Events/Others
 - Germanic Tribes
-> Angles, Saxons, Frisians, Jutes
+1. Angles, Saxons, Frisians, Jutes
 
-> Language brought: Englisc
+2. Language brought: Englisc
 - St. Augustine
-> Language brought: Latin (became basis of English Alphabet)
+1. Language brought: Latin (became basis of English Alphabet)
 - King Alfred 
-> Ordered translation of Latin words to English 
+1. Ordered translation of Latin words to English 
 - Celtics
-> Natives
+1. Natives
 - Vikings 
-> Language brought: Old Norse
+1. Language brought: Old Norse
 
 Important Literatures 
 - Beowulf
-> 3,183 lines
-
-> Oldest literature preserved 
+1. 3,183 lines
+2. Oldest literature preserved 
 
 Words introduced 
 - sky, egg, cake, skin, leg, window
