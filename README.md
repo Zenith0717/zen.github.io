@@ -1,12 +1,11 @@
 <DOCTYPE html> 
   <html> 
     <head> 
-      <h1>Sha la la la sha la la sha lalalaLA</h1> 
+      <h1>Sir wala po akong maisipan</h1> 
     </head>
     
     <body>
       
-      <h2>Da COCONut NUT is a jiant NAt and when u eat to much you get BERY PAT</h2>
-      <img src="https://i.ytimg.com/vi/OPM0TYK6JAg/maxresdefault.jpg" alt="big coco" width="69" length="420"
-           
+      <h2>Sir sorry sir but website naman po to</h2>
+        
     </body>
