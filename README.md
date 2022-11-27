@@ -4,7 +4,6 @@
 Important People/Figures/Events/Others
 - Germanic Tribes
 1. Angles, Saxons, Frisians, Jutes
-
 2. Language brought: Englisc
 - St. Augustine
 1. Language brought: Latin (became basis of English Alphabet)
